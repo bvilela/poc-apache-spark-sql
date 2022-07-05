@@ -5,7 +5,9 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/bvilela/google-calendar-util-lib)
 
 ## :mag_right: Summary
-PoC Java Apache Spark SQL (Load data from JSON data source and execute Spark SQL query).
+PoC Java Apache Spark SQL.
+
+Load data from JSON data source and execute Spark SQL query.
 
 This project follow this [tutorial](https://www.tutorialkart.com/apache-spark/load-data-from-json-file-and-execute-sql-query/).
 
